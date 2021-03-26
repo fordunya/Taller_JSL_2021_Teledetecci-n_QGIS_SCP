@@ -13,7 +13,7 @@ CONTENIDOS DEL TALLER
 - Principios básicos de teledetección
 
   + ¿Qué es la teledetección?
-  + Conceptos básicos
+  + Principios de la teledetección
   + La radiación electromagnética
   + Sensores y bandas
   + Tipos de resolución
@@ -36,9 +36,13 @@ CONTENIDOS DEL TALLER
   + Aplicación de máscaras para nubes
 
 
-
+¿Qué es la teledetección?
+=========================
   
+La teledetección, o detección remota, es la adquisición de información a pequeña o gran escala de un objeto o fenómeno, ya sea usando instrumentos de grabación o instrumentos de escaneo en tiempo real inalámbricos o que no están en contacto directo con el objeto (como por ejemplo aviones, satélites, astronave, boyas o barcos). En la práctica, la teledetección consiste en recoger información a través de diferentes dispositivos de un objeto concreto o un área. Por ejemplo, la observación terrestre o los satélites meteorológicos, las boyas oceánicas y atmosféricas, las imágenes por resonancia magnética (MRI en inglés), la tomografía por emisión de positrones (PET en inglés), los rayos-X y las sondas espaciales son todos ejemplos de teledetección. Actualmente, el término se refiere de manera puntual al uso de tecnologías de sensores para adquisición de imágenes, incluyendo: instrumentos a bordo de satélites o aerotransportados, usos en electrofisiología, y difiere en otros campos relacionados con imágenes como por ejemplo en imagen médica.
 
+Extraido de Wikipedia
 
-
+Principios de la teledetección
+==============================
 
