@@ -22,7 +22,6 @@ CONTENIDOS DEL TALLER
   
 - Portales de descarga y visualización de imágenes satélite
 - El complemento SCP
-- El complemento SCP
 - Descarga de imágenes Landsat con el complemento SCP
 - Recortar imágen
 - Combinar imágenes RGB
